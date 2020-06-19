@@ -18,6 +18,7 @@
 
  ### O que deverá ser desenvolvido?
 
+
  Dentro do arquivo `index.js` desse repositório, há uma lista de alunos base. Em nosso sistema, um aluno é descrito com as seguintes informações:
 
   - Nome
